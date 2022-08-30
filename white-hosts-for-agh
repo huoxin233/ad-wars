@@ -1,0 +1,29 @@
+#pkg=white.ad.web.com;【提示误伤】选择性不✔以下子项
+#---------------------------------------------
+@@||livew.l.qq.com #-> 腾讯视频
+@@||t7z.cupid.iqiyi.com #-> 爱奇艺
+@@||wxsnsdy.wxs.qq.com #-> 微信
+#---------------------------------------------
+#--下列会影响奖励形式的广告(小程序\小游戏等)
+@@||is.snssdk.com
+@@||adsmind.gdtimg.com
+@@||pv.sohu.com
+@@||gw.365you.com
+@@||x.adnet.qq.com
+@@||mi.gdt.qq.com
+@@||c.gdt.qq.com
+@@||d.gdt.qq.com
+@@||i.gdt.qq.com
+@@||m.gdt.qq.com
+@@||t.gdt.qq.com
+@@||v.gdt.qq.com
+@@||q.i.gdt.qq.com
+@@||v2.gdt.qq.com
+@@||ii.gdt.qq.com
+@@||rm.gdt.qq.com
+@@||nc.gdt.qq.com
+@@||vr.gdt.qq.com
+@@||rpt.gdt.qq.com
+@@||win.gdt.qq.com
+@@||ipv4.gdt.qq.com
+@@||v6ii.gdt.qq.com
